@@ -15,6 +15,7 @@ conda activate myenv
 python3.7 -m venv myenv
 source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
 
+
 ### 2. Install Dependencies
 
 To install the core dependencies, run:
